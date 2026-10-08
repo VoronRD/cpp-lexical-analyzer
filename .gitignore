@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+bin/
+obj/
+
+# Visual Studio cache
+ipch/
+
+# Generated files
+*.pdb
+*.ilk
+*.tlog
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
